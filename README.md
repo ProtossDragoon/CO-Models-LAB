@@ -2,6 +2,10 @@
 
 To train and run many type of AI models with google COLAB
 
+<br>
+
+한국어 readme : 
+
 <hr>
 
 ## Computer vision
