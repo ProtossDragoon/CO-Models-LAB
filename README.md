@@ -8,6 +8,13 @@ To train and run many type of AI models with google COLAB
 
 <hr>
 
+## How to run
+
+### Example : Darknet
+
+
+<hr>
+
 ## Computer vision
 
 ### Darknet
