@@ -12,12 +12,13 @@
 
 ### Darknet
 
-Yolo v2, v3 을 구현한 것. <br>
-
-물체 탐지 <br>
+물체 탐지 모델인 Yolo v2, v3 을 구현한 것. <br>
 
 - 인터넷에 떠돌아다니는 Gun dataset 을 (총 데이터셋) 이용합니다.
 - 1개 클래스의 이미지에 대해서 Tiny-yolo-v2 를 돌려 봅니다.
+
+**Demo image**
+
 
 <br>
 
