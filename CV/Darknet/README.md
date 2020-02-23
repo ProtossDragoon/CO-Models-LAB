@@ -1,5 +1,5 @@
 # Darknet AlexyAB
 
-original git : https://github.com/AlexeyAB/darknet
+source repo : https://github.com/AlexeyAB/darknet
 
 <hr>
