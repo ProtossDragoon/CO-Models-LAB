@@ -1,1 +1,25 @@
+# CO-Models-LAB
 
+다양한 AI 모델을 Google COLAB 에서 메뉴얼을 따라 돌려볼 수 있도록 하기 위하여 만들었습니다.
+
+<br>
+
+[original readme](https://github.com/ProtossDragoon/CO-Models-LAB/blob/master/README.md)
+
+<hr>
+
+## 컴퓨터 비전
+
+### Darknet
+
+Yolo v2, v3 을 구현한 것. <br>
+
+물체 탐지 <br>
+
+- VOC 와 같은 유명한 데이터가 아니라, 사설 데이터를 이용합니다.
+- 여기서는 Gun dataset 을 이용해 봅니다.
+- 1개 클래스의 이미지에 대해서 Tiny-yolo-v2 를 돌려 봅니다.
+
+<br>
+
+### Darkflow
