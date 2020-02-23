@@ -4,7 +4,7 @@ To train and run many type of AI models with google COLAB
 
 <br>
 
-한국어 readme : 
+[한국어 readme](https://github.com/ProtossDragoon/CO-Models-LAB/blob/master/README-Kor.md)
 
 <hr>
 
