@@ -1,8 +1,16 @@
 # CO-Models-LAB
-To train and run many type of models with google COLAB
+To train and run many type of AI models with google COLAB
 
 <hr>
 
 ## Computer vision
 
-### Yolo - Darknet
+### Darknet
+
+Yolo v2, v3 implementation <br>
+
+- Custom Data. Gun Dataset 1 class Example
+
+<br>
+
+### Darkflow
