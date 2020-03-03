@@ -22,6 +22,7 @@ To train and run many type of AI models with google COLAB
 Yolo v2, v3 implementation <br>
 
 - Custom Data. Gun Dataset 1 class Example
+- Examle model : tiny-yolo-v2, yolo v3
 
 <br>
 
