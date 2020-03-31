@@ -1,4 +1,4 @@
-# CO-Models-LAB
+# CoMoLab (CO-Models-LAB)
 
 To train and run many type of AI models with google COLAB
 
