@@ -11,7 +11,7 @@ To train and run many type of AI models with google COLAB
 ## How to run
 
 - Upload the file to your google COLAB
-- Revise many paths inside of the uploaded source code suitable for your Google Drive env. (i.e, data path, image path, ... )
+- Revise a few paths on the uploaded source code suitable for your Google Drive env. (i.e, data path, image path, ... )
 
 <hr>
 
