@@ -41,5 +41,9 @@ Yolo v2, v3 implementation <br>
 
 ### Class Activation Map - VGG16
 
+Keras with Tensorflow Backend Implementation for Google COLAB <br>
+
+- Original Source : [Theano Backend Implementation](https://github.com/tdeboissiere/VGG16CAM-keras)
+
 <br>
 
