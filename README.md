@@ -32,7 +32,7 @@ Yolo v2, v3 implementation <br>
 
 Keras with Tensorflow Backend Implementation for Google COLAB <br>
 
-- Original Source : [Theano Backend Implementation](https://github.com/tdeboissiere/VGG16CAM-keras)
+- Original Source : [Theano Backend, Old version Implementation](https://github.com/tdeboissiere/VGG16CAM-keras)
 
 <br>
 
