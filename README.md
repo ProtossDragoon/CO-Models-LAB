@@ -24,17 +24,6 @@ Yolo v2, v3 implementation <br>
 - Custom Data. Gun Dataset 1 class Example
 - Examle model : tiny-yolo-v2, yolo v3
 
-<br>
-
-### Yolo v1
-
-- Implemented by Keras
-
-<br>
-
-### Darkflow
-
-
 
 <br>
 
