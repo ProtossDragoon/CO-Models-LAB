@@ -23,6 +23,9 @@ Yolo v2, v3 implementation <br>
 
 - Custom Data. Gun Dataset 1 class Example
 - Examle model : tiny-yolo-v2, yolo v3
+- Model Source Code : x
+- Training Support : o
+- Testing Support : o
 
 
 <br>
@@ -33,6 +36,9 @@ Yolo v2, v3 implementation <br>
 Keras with Tensorflow Backend Implementation for Google COLAB <br>
 
 - Original Source : [Theano Backend, Old version Implementation](https://github.com/tdeboissiere/VGG16CAM-keras)
+- Model Source Code : o / Tensorflow 1.5, tf.Keras
+- Training Support : o
+- Testing Support : o
 
 <br>
 
