@@ -26,7 +26,7 @@ Yolo v2, v3 implementation <br>
 - Model Source Code : x
 - Training Support : o
 - Testing Support : o
-
+- Optimization & Quantization Op Support : x
 
 <br>
 
@@ -39,6 +39,7 @@ Keras with Tensorflow Backend Implementation for Google COLAB <br>
 - Model Source Code : o / Tensorflow 1.5, tf.Keras
 - Training Support : o
 - Testing Support : o
+- Optimization & Quantization Op Support : x
 
 <br>
 
