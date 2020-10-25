@@ -44,7 +44,7 @@ Keras with Tensorflow Backend Implementation for Google COLAB <br>
 <br>
 
 
-### Detection - Yolo V1
+### Detection - Yolo v1 Keras
 
 Keras with Tensorflow Backend Implementation for Google COLAB <br>
 
