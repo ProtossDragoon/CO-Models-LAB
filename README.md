@@ -44,15 +44,15 @@ Keras with Tensorflow Backend Implementation for Google COLAB <br>
 <br>
 
 
-### 
+### Detection - Yolo V1
 
 Keras with Tensorflow Backend Implementation for Google COLAB <br>
 
-- Original Source :
-- Model Source Code : 
-- Training Support : 
-- Testing Support : 
-- Optimization & Quantization Op Support : 
+- Original Source : https://www.maskaravivek.com/post/yolov1/
+- Model Source Code : o / Tensorflow 2.3, tf.Keras
+- Training Support : o
+- Testing Support : x
+- Optimization & Quantization Op Support : ?
 
 <br>
 
