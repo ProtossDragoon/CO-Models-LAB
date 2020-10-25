@@ -31,7 +31,7 @@ Yolo v2, v3 implementation <br>
 <br>
 
 
-### Class Activation Map - VGG16
+### Class Activation Map - VGG16 Backbone
 
 Keras with Tensorflow Backend Implementation for Google COLAB <br>
 
